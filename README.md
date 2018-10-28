@@ -1,1 +1,2 @@
-# mongo-scraper
+# NYT Article Scraper
+
